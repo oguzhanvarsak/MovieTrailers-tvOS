@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "HomeViewModel.movieAtIndex(section:index:):HomeViewModel.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "movies[section][index].title">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "HomeViewModel.numberOfItemsInSection(_:):HomeViewModel.swift">
+      </ContextState>
+      <ContextState
+         contextName = "HomeViewModel.numberOfSections.getter:HomeViewModel.swift">
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in HomeViewModel.getGenres():HomeViewModel.swift">
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in HomeViewModel.getMovies(for:):HomeViewModel.swift">
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in WebService.getData&lt;&#x3c4;_0_0&gt;(from:for:completion:):WebService.swift">
+      </ContextState>
+      <ContextState
+         contextName = "HomeViewController.numberOfSections(in:):HomeViewController.swift">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
